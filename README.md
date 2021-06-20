@@ -1,3 +1,8 @@
-# unraid_templates
+# docker-templates
 
-Templates die von Unraid verwendet werden
+Docker templates for [unRAID](https://lime-technology.com/) to be used internally
+
+# Sources
+
+GitLab CE and Runner Templates from tynor88			: https://github.com/tynor88/docker-templates
+Ark Survival Evolved Template modified from ich777 	: https://github.com/ich777/docker-templates
