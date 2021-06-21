@@ -1,6 +1,6 @@
 # docker-templates
 
-Docker templates for [unRAID](https://lime-technology.com/) to be used internally
+Docker templates for [unRAID](https://lime-technology.com/)
 
 # Sources
 

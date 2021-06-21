@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>gitlab-runner</Name>
+  <Name>GitLab Runner Ubuntu</Name>
   <Date>2021-06-21</Date>
-  <Repository>gitlab/gitlab-runner</Repository>
+  <Repository>gitlab/gitlab-runner:latest</Repository>
   <Registry>https://hub.docker.com/r/gitlab/gitlab-runner/</Registry>
   <GitHub>http://server:9080/Patrick/unraid_templates</GitHub>
   <Network Default="bridge">bridge</Network>
