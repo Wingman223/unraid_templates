@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Container version="2">
-  <Name>GitLab Runner Ubuntu</Name>
+  <Name>GitLab-Runner-Ubuntu</Name>
   <Date>2021-06-21</Date>
   <Repository>gitlab/gitlab-runner:latest</Repository>
   <Registry>https://hub.docker.com/r/gitlab/gitlab-runner/</Registry>
